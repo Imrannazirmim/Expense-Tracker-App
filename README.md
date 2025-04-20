@@ -20,8 +20,8 @@ An intuitive and responsive Expense Tracker application built with **React** and
 ## Screenshot
 
 ![Expense Tracker Screenshot](src/assets/1.png)
+<a href='https://expense-tracker-app-mu-one.vercel.app/'>Preview </a>
 
 ---
 
 # Expense-Tracker-App
-<a href='https://expense-tracker-app-mu-one.vercel.app/'>Preview </a>
